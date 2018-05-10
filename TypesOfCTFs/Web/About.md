@@ -26,6 +26,12 @@ You might need to use **SQL injection** to read the *“secret_flag”* table of
 
 We can simply use *curl* or *nc* (just google it) or use tools such as **Postman** or **Burpsuite**.
 
+## fetch the page, extract the content and process it.
+you may need to extract a hash from the page. You may want to find a module like "Requests" in python, which allow you to make calls to webpages. Once you requested the page, you may need to write a regex in order to extract the hash from the page. Once you have extracted the hash, do the required processing and send it back like it says in the instruction!
+
+I usually do this in python, but any language can be used. Good luck and have fun!
+> Refer Tools for some libraries in Python which will help : [Tools](https://github.com/SaiHarshaK/CTF/tree/master/TypesOfCTFs/Web/Tools)
+
 ## We divide the topic into sub-categories
 
 > HTTP
