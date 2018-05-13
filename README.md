@@ -14,8 +14,13 @@ Developing the ability to find flags quickly takes practice more than anything, 
 
 ## Topics
 [Binary_Reversing](TypesOfCTFs/Binary_Reversing/About.md)
+
 [Cryptography](TypesOfCTFs/Cryptography/About.md)
+
 [Forensics](TypesOfCTFs/Forensics/About.md)
+
 [Steganography](TypesOfCTFs/Steganography/About.md)
+
 [Web](TypesOfCTFs/Web/About.md)
+
 [Misc](TypesOfCTFs/Misc/About.md)
