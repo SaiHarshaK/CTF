@@ -13,14 +13,14 @@ CTFs are computer security/hacking competitions which generally consist of parti
 Developing the ability to find flags quickly takes practice more than anything, and participating in numerous CTFs will allow you to expand your understanding and abilities, leading you to success. Spend some time on CTFTime working through CTFs to truly improve and learn.
 
 ## Topics
-[Binary_Reversing](TypesOfCTFs/Binary_Reversing/About.md)
+[Binary_Reversing](TypesOfCTFs/Binary_Reversing/)
 
-[Cryptography](TypesOfCTFs/Cryptography/About.md)
+[Cryptography](TypesOfCTFs/Cryptography/)
 
-[Forensics](TypesOfCTFs/Forensics/About.md)
+[Forensics](TypesOfCTFs/Forensics/)
 
-[Steganography](TypesOfCTFs/Steganography/About.md)
+[Steganography](TypesOfCTFs/Steganography/)
 
-[Web](TypesOfCTFs/Web/About.md)
+[Web](TypesOfCTFs/Web/)
 
-[Misc](TypesOfCTFs/Misc/About.md)
+[Misc](TypesOfCTFs/Misc/)
