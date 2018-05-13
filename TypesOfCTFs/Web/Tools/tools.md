@@ -10,12 +10,12 @@ Burp Suite is made for web penetration testers and simplifies many common tasks 
 
 ## Python Libraries
 
-[requests](http://docs.python-requests.org/en/master/)
-[regexs](https://docs.python.org/3/library/re.html)
-[hashing](https://docs.python.org/3/library/hashlib.html)
-[efficient loops](https://docs.python.org/3/library/itertools.html)
-[sockets](https://docs.python.org/2/library/socket.html)
-[pwntools](https://docs.pwntools.com/en/stable/)
+[requests](http://docs.python-requests.org/en/master/)  
+[regexs](https://docs.python.org/3/library/re.html)  
+[hashing](https://docs.python.org/3/library/hashlib.html)  
+[efficient loops](https://docs.python.org/3/library/itertools.html)  
+[sockets](https://docs.python.org/2/library/socket.html)  
+[pwntools](https://docs.pwntools.com/en/stable/)  
 
 ### Also do google , for example check this for the first 10000 primes
 
