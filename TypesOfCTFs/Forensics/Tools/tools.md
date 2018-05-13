@@ -13,7 +13,7 @@
 ## Python libraries
 [bytearray](http://infohost.nmt.edu/tcc/help/pubs/python/web/bytearray-type.html) - a mutable sequence of bytes  
 [Volatility](http://www.volatilityfoundation.org/) - Volatility is a Python script for parsing memory dumps that were gathered with an external tool  
-> Plugins for extracting - [SQL Database](http://blog.superponible.com/2014/08/31/volatility-plugin-sqlite-helper/)[Chrome History](http://blog.superponible.com/2014/08/31/volatility-plugin-chrome-history/)[Firefox History](http://blog.superponible.com/2014/08/31/volatility-plugin-firefox-history/)  
+> Plugins for extracting - [SQL Database](http://blog.superponible.com/2014/08/31/volatility-plugin-sqlite-helper/)  [Chrome History](http://blog.superponible.com/2014/08/31/volatility-plugin-chrome-history/)  [Firefox History](http://blog.superponible.com/2014/08/31/volatility-plugin-firefox-history/)  
 
 [peepDF](https://github.com/jesparza/peepdf) - write your own parsing scripts.  
 [ffmpy](http://ffmpy.readthedocs.io/en/latest/examples.html) - ffmpeg in python  
