@@ -17,6 +17,6 @@ Burp Suite is made for web penetration testers and simplifies many common tasks 
 [sockets](https://docs.python.org/2/library/socket.html)
 [pwntools](https://docs.pwntools.com/en/stable/)
 
-### Also do google , for example check this for first 10000 primes
+### Also do google , for example check this for the first 10000 primes
 
 > [10000 primes](https://primes.utm.edu/lists/small/10000.txt) 

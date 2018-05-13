@@ -9,8 +9,6 @@ Take a Break or solve a different problem if you are still stuck.
 
 Be thorough with Linux commands like grep,file,strings,uniq,sed,awk.
 
-Set up to run VMs so that you can use Windows or linux or whatever the problem requires / u prefer.
-
-
+Set up to run VMs so that you can use Windows or linux or (whatever the problem requires) / (u prefer).
 
 

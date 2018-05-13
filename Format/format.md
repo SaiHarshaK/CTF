@@ -1,7 +1,7 @@
 # Format
 
 ## Jeopardy 
-There are various categories of puzzles of which only one of them will be open at first.The first team to solve it can choose the next puzzle which will be unlocked for others. The team with the most points at the end of the time limit, wins
+Only one of the various categories of puzzles will be open at first.The first team to solve it can choose the next puzzle to be unlocked.Everyone must follow this path of puzzles.The team with the most points at the end of the time limit, wins
 
 ## Linear
 The first team to solve the challenges in given order wins.
