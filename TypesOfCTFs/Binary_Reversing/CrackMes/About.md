@@ -1,0 +1,2 @@
+# CrackMe's
+These programs include anti-reversing measures, like anti-debugger instructions, code obfuscation, or even dual-use opcodes. There’s a few ways the flag could be embedded - the program could implement a particular password check, and the string that is accepted is the flag, or perhaps the program calculates the decryption of an encrypted flag, but requires rewriting certain instructions so that it performs the decryption.

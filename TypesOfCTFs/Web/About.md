@@ -1,7 +1,5 @@
 ﻿# WEB
-These type CTFs require the player to find the common vulnerabilities in the web technologies.
-
-## For example
+These type CTFs require the player to find the common vulnerabilities in the web technologies.  
 You might need to use **SQL injection** to read the *“secret_flag”* table of a database, use **directory traversal** to get a web server to serve you *“flag.txt”*, use **Cross-Site Scripting** to trick a simulated user to send you their password, or bypass some client-side checks implemented by obfuscated **javascript**
 
 

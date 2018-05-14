@@ -22,7 +22,7 @@
 ## Useful Commands...
 [file](https://www.computerhope.com/unix/ufile.htm) -	    The file command is used to determine a file's type  
 [strings](http://www.linfo.org/strings.html) -   search for all plain-text strings  
-[grep](https://opensourceforu.com/2012/06/beginners-guide-gnu-grep-basics-regular-expressions/) -      to search for particular strings  
+[grep](https://www.computerhope.com/unix/ugrep.htm) -      to search for particular strings  
 [bgrep](https://github.com/nneonneo/bgrep) -     to search for non-text data patterns  
 [hexdump](http://man7.org/linux/man-pages/man1/hexdump.1.html) -   for a hexadecimal view of computer data  
 [mount](https://www.computerhope.com/unix/umount.htm) -     self-explanatory  

@@ -1,0 +1,2 @@
+# Pwnables
+The program you received is running as a service on a remote machine. Reverse-engineer it, figure out its vulnerability, and use that to take exploit the remote service into serving you a flag. Often, there’s a flag.txt you can get the program to read, or perhaps it has a flag in memory you need to get it to accidentally send you. Or, sometimes you are able to just execute shellcode, and read a ‘flag.txt’ directly.
