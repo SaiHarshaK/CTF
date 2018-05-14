@@ -14,5 +14,3 @@ Set up to run VMs so that you can use Windows or linux or (whatever the problem 
 Keep an eye for Buffer Overflow(like [Integer Overflow](https://en.wikipedia.org/wiki/Integer_overflow)).
 
 [Examples of small vulnerable C programs](https://github.com/deadbits/InsecureProgramming) & Examples of lots of vulnerablities - [Wireshark](https://www.wireshark.org/security/)
-
-
