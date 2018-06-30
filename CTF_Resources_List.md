@@ -1,9 +1,9 @@
 ## List of lists  
-- https://github.com/ctfs/resources  
-- https://github.com/apsdehal/awesome-ctf  
-- https://github.com/SkullTech/CTF-Resources  
-- https://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/  
-- https://medium.com/@andr3w_hilton/learning-resources-a0a859bf9dbd  
+- [CTF Resources](https://github.com/ctfs/resources) - Archive of information, tools, and references regarding CTF competitions.
+- [Awesome CTF](https://github.com/apsdehal/awesome-ctf)  - A curated list of CTF frameworks, libraries, resources and softwares
+- [SkullTech CTF Resources](https://github.com/SkullTech/CTF-Resources) - A list of resources related to Capture the Flag contests 
+- https://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/)
+- https://medium.com/@andr3w_hilton/learning-resources-a0a859bf9dbd) - Resources copied from PicoCTF forum
 
 ## List of Frameworks  
 - [collabCTF](https://github.com/HackUCF/collabCTF)  
