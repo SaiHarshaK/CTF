@@ -42,18 +42,24 @@ Refer [this](https://www.dcode.fr/bifid-cipher)
 #### Decryption
 Refer [this](https://www.dcode.fr/bifid-cipher)
 
-# Caesarian Shift
+## Caesarian Shift
 This is a standard Caesarian Shift cipher encoder, also known as a rot-N encoder and is also a style of substitution cipher.  
 #### Encryption
 Assign,A=0, B=1, ..., Z=25. Now, *add* a constant (the shift), then apply modulo 26 (alphabet length) to the result.This is the coded text.
 #### Decryption
 Assign,A=0, B=1, ..., Z=25. Now, *subtract* a constant (the shift), then apply modulo 26 (alphabet length) to the result.This is the decrypted text.
 
-<To Be updated>
+## Keyed Caesar
+Similar to a Caesar cipher, but you first alter the encoded alphabet with a word or phrase.For a keyed version, one would not use a standard alphabet, but would first write a word (omitting duplicated letters) and then write the remaining letters of the alphabet.
 #### Encryption
+Assign values similar to Caeser cipher based on aour alphabet, and continue.
 #### Decryption
+Decryption is same as encryption.
 
+## Columnar Transposition
+Write a message as a long column and then swap around the columns. Read the message going down the columns. A simple cypher, but one that is featured on the Kryptos sculpture at the CIA headquarters.
 #### Encryption
+
 #### Decryption
 
 #### Encryption
