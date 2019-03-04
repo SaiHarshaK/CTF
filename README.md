@@ -30,3 +30,9 @@ Developing the ability to find flags quickly takes practice more than anything, 
 [Web](TypesOfCTFs/Web/)
 
 [Misc](TypesOfCTFs/Misc/)
+
+## Contributors
+* Sai Harsha Kottapalli
+* Nikhil Pallamreddy  
+  
+This project was done as a part of Kludge during Summer 2018.
