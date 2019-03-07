@@ -4,7 +4,7 @@
 - [CTF Resources](https://github.com/ctfs/resources) - Archive of information, tools, and references regarding CTF competitions.
 - [Awesome CTF](https://github.com/apsdehal/awesome-ctf)  - A curated list of CTF frameworks, libraries, resources and softwares
 - [SkullTech CTF Resources](https://github.com/SkullTech/CTF-Resources) - A list of resources related to Capture the Flag contests 
-- [InfoSec CTF Resources](https://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/) 
+- [InfoSec CTF Resources](https://resources.infosecinstitute.com/tools-of-trade-and-resources-to-prepare-in-a-hacker-ctf-competition-or-challenge/) - Tools and Resources to Prepare for a Hacker CTF Competition or Challenge
 - [Medium Article](https://medium.com/@andr3w_hilton/learning-resources-a0a859bf9dbd) - Resources copied from PicoCTF forum
 
  
@@ -33,11 +33,10 @@
 - [PicoCTF Old Platform](https://github.com/picoCTF/picoCTF-platform-deprecated) - Not maintained
 - [PicoCTF Platform 2](https://github.com/picoCTF/picoCTF-Platform-2) - Infrastructure on which picoCTF 2014 ran
 - [PicoCTF Platform](https://github.com/picoCTF/picoCTF) - The platform used to run picoCTF
-- [iCTF Framework](https://github.com/ucsb-seclab/ictf-framework) - 
-- [INShAck 2017](https://github.com/HugoDelval/inshack-2017) - 
-- [Root the Box](https://github.com/moloch--/RootTheBox) - 
-- [FBCTF](https://github.com/facebook/fbctf) - 
-- [SecGen](https://github.com/cliffe/SecGen) - 
+- [iCTF Framework](https://github.com/ucsb-seclab/ictf-framework) - framework that the UC Santa Barbara Seclab uses to host the iCTF
+- [Root the Box](https://github.com/moloch--/RootTheBox) - real-time capture the flag (CTF) scoring engine IN Python
+- [FBCTF](https://github.com/facebook/fbctf) - Easy to use platform to host Capture the Flag competitions
+- [SecGen](https://github.com/cliffe/SecGen) - Creates VMs which have random vulnerabilities
 
 ### Web 
 - [Metasploit JavaScript Obfustcator](https://github.com/rapid7/metasploit-framework/wiki/How-to-obfuscate-JavaScript-in-Metasploit) - 
@@ -72,7 +71,7 @@
 - [CTF Tools](https://github.com/zardus/ctf-tools) - 
 -  [LazyKali](https://github.com/jlevitsk/lazykali) - A 2016 refresh of LazyKali which simplifies install of tools and configuration.
 
-###OS 
+### OS 
 - [BackBox](https://backbox.org/) - Based on Ubuntu
 - [BlackArch Linux](https://blackarch.org/) - Based on Arch Linux
 - [Fedora Security Lab](https://labs.fedoraproject.org/security/) - Based on Fedora
@@ -219,18 +218,18 @@
 ### OS   
 - [The Linux man-pages Project](https://www.kernel.org/doc/man-pages/) - 
 - [Linux Users and Groups](https://www.linode.com/docs/tools-reference/linux-users-and-groups) - 
-- [BashRef](https://tiswww.case.edu/php/chet/bash/bashref.html) - 
+- [BashRef](https://tiswww.case.edu/php/chet/bash/bashref.html) - Bash Reference Manual
 
 
 ### Web  
 #### Cross-site scripting (XSS)  
-- [OWASP - XSS](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS)  
+- [OWASP - XSS](https://www.owasp.org/index.php/Cross-site_Scripting_(XSS))  
 - [OWASP - XSS Filter Evasion Cheat Sheet](https://www.owasp.org/index.php/XSS_Filter_Evasion_Cheat_Sheet)  
 - [DOM Clobbering](http://www.thespanner.co.uk/2013/05/16/dom-clobbering/)  
 - [HTML Markup Injection](http://lcamtuf.coredump.cx/postxss/#dangling-markup-injection)  
-- [Testing For Reflected XSS](https://www.owasp.org/index.php/Testing_for_Reflected_Cross_site_scripting_(OWASP-DV-001)
-- [Testing For Stored XSS](https://www.owasp.org/index.php/Testing_for_Stored_Cross_site_scripting_(OWASP-DV-002) 
-- [Testing For DOM-based XSS](https://www.owasp.org/index.php/Testing_for_DOM-based_Cross_site_scripting_(OWASP-DV-003)
+- [Testing For Reflected XSS](https://www.owasp.org/index.php/Testing_for_Reflected_Cross_site_scripting_(OWASP-DV-001))
+- [Testing For Stored XSS](https://www.owasp.org/index.php/Testing_for_Stored_Cross_site_scripting_(OWASP-DV-002))
+- [Testing For DOM-based XSS](https://www.owasp.org/index.php/Testing_for_DOM-based_Cross_site_scripting_(OWASP-DV-003))
 
 #### Cross-Site Request Forgery (CSRF)  
 - [OWASP - CSRF](https://www.owasp.org/index.php/Cross-Site_Request_Forgery_(CSRF))  
@@ -401,7 +400,8 @@ http://www.irongeek.com/i.php?page=security/mutillidae-deliberately-vulnerable-p
 
 ## Misc
 Stackexchange  
-overflow  
-quora  
-wikipedia  
-wolfram  
+Stackoverflow  
+Quora  
+Wikipedia  
+Wolfram  
+Reddit
